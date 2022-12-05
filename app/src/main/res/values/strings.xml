@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">KotlinProject1</string>
+    <string name="food_menu">Food Menu</string>
+    <string name="drink_menu">Drink Menu</string>
+    <string name="reserve_detail">Reserve Detail</string>
+    <string name="strawberry_margarita">Strawberry\nmargarita</string>
+    <string name="blueberry_rum">Blueberry rum</string>
+    <string name="green_gin">Green gin</string>
+    <string name="long_island">Long island</string>
+    <string name="typhon">Typhon</string>
+    <string name="hurrican">Hurrican</string>
+    <string name="pink_batata">Pink batata</string>
+    <string name="saka_maki">Saka maki</string>
+    <string name="make_reservation">Enter detail</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="date_of_reservation">Date of reservation: dd/mm/yyyy</string>
+    <string name="how_many_people">How many people?</string>
+    <string name="vegan">Vegan?</string>
+    <string name="reserve_sits">Reserve sits</string>
+    <string name="ok">ok</string>
+    <string name="blueberry_rum_description">Rum, blueberry syrup, vanilla syrup, with a lemon and blueberry garnish</string>
+    <string name="price_7">Price: 7$</string>
+    <string name="green_gin_description">Gin, cucumber syrup, sugar syrup and lime.</string>
+    <string name="price_5">Price: 5$</string>
+    <string name="hurrican_description">Inside out filled with spicy salmon, cucumber, avocado, on top of it there is burned tuna with mayo and black tobiko</string>
+    <string name="price_25">Price: 25$</string>
+    <string name="long_island_description">Vodka, tequila, rum, triple sec, Gin, sugar syrup and cranberry juice</string>
+    <string name="pink_batata_description">Vegan inside out with lettuce, chives, avocado, asparagus, on top of it there is sweet potato, peanuts and beetroot sauce</string>
+    <string name="price_20">Price: 20$</string>
+    <string name="thank_you">Thank you</string>
+    <string name="saka_maki_description">Salmon and avocado</string>
+    <string name="price_14">Price: 14$</string>
+    <string name="strawberry_margarita_description">Tequila blanco, cointreau, lime, strawberry syrup, and strawberry garnish</string>
+    <string name="typhoon">Typhoon</string>
+    <string name="typhoon_description">Inside out filled with spicy Tuna, sweet potato cucumber, avocado, on top of it there is burned salmon and teriyaki</string>
+</resources>

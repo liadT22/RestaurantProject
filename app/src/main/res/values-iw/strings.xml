@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KotlinProject1</string>
+    <string name="food_menu">תפריט אוכל</string>
+    <string name="drink_menu">תפריט שתייה</string>
+    <string name="reserve_detail">פרטי הזמנה</string>
+    <string name="strawberry_margarita">מרגריטה תות</string>
+    <string name="blueberry_rum">רום דובדבן</string>
+    <string name="green_gin">גרין ג\'ן</string>
+    <string name="long_island">לונג איילנד</string>
+    <string name="typhon">טייפון</string>
+    <string name="hurrican">הוריקן</string>
+    <string name="pink_batata">פינק בטטה</string>
+    <string name="saka_maki">סאקה מאקי</string>
+    <string name="make_reservation">הכניסו פרטים</string>
+    <string name="enter_name">הכנס את שמך</string>
+    <string name="date_of_reservation">תאריך הזמנה: יום\\חודש\\שנה</string>
+    <string name="how_many_people">כמה אנשים אתם?</string>
+    <string name="vegan">צמחונים?</string>
+    <string name="reserve_sits">הזמינו מקום</string>
+    <string name="ok">אוקיי</string>
+    <string name="blueberry_rum_description">רום, סירופ דובדבן, סירופ וניל, עם קישות לימון ואוכמניות</string>
+    <string name="price_7">מחיר 20  ש\"ח</string>
+    <string name="green_gin_description">ג\'ין , סירופ מלפפון, סירופ סוכר ולימון</string>
+    <string name="price_5">מחיר 15 ש\"ח</string>
+    <string name="hurrican_description">אינסייד אווט מבפנים סלמון חריף, מלפפון, אבוקדו, מעל יש טונה שרופה, מיונז וטוביקו</string>
+    <string name="price_25">מחיר 75 ש\"ח</string>
+    <string name="long_island_description">וודקה, טקילה, רום, טריפל סק, ג\'ין, מי סוכר ומיץ חמוציות</string>
+    <string name="pink_batata_description">צמחוני אינסייד אווט, עם חסה, עירית, אבוקדו, אספרגוס, מעל יש שבבי בטטה, אגוזים ורוטב סלק</string>
+    <string name="price_20">מחיר 60 ש\"ח</string>
+    <string name="thank_you">תודה רבה</string>
+    <string name="saka_maki_description">סלמון ואבוקדו</string>
+    <string name="price_14">מחיר 42 ש\"ח</string>
+    <string name="strawberry_margarita_description">טקילה בלנקו, קוינטרו, לימון, סירופ דובדבנים, וקישוט דובדבנים</string>
+    <string name="typhoon">טייפון</string>
+    <string name="typhoon_description">אינסייד אווט עם טונה חריפה, בטטה, אבוקדו, מעל יש סלמון שרוף וטריאקי</string>
+</resources>
